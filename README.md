@@ -1,3 +1,9 @@
+# ⚠️ Repository Merged
+
+**This repository has been merged into the [Whispering monorepo](https://github.com/braden-w/whispering) and is now archived. Please visit the monorepo for the latest updates and to contribute to the project.**
+
+---
+
 # Whispering Extension
 
 The Whispering Chrome extension is a powerful tool that enhances your voice-to-text experience on the web. It provides seamless access to the OpenAI Whisper API for voice transcription and adds a convenient recording button for Chat GPT. Streamline your online voice transcription workflow with this handy extension.
